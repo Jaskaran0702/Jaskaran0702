@@ -23,7 +23,7 @@ Here are some of the technologies and tools that I've been working with:
 
 I'm always excited to connect with fellow developers and learners. You can reach out to me through the following platforms:
 
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/jaskaran-baweja-0b125522a/))
+- [LinkedIn]([https://www.linkedin.com/in/jaskaran-baweja-0b125522a])
 - [Email](21ucs097@lnmiit.ac.in)
 
 Feel free to explore my repositories and don't forget to give them a ⭐️ if you find them interesting or useful!
