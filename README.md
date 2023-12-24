@@ -28,7 +28,7 @@ I'm always excited to connect with fellow developers and learners. You can reach
 
 Feel free to explore my repositories and don't forget to give them a ⭐️ if you find them interesting or useful!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaskaran07&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaskaran0702&size_weight=0.5&count_weight=0.5)
 
 
 Thank you for visiting my profile! 😄
