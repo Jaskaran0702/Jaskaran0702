@@ -28,4 +28,6 @@ I'm always excited to connect with fellow developers and learners. You can reach
 
 Feel free to explore my repositories and don't forget to give them a ⭐️ if you find them interesting or useful!
 
+[![Jaskaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaskaran07)](https://github.com/Jaskaran07/github-readme-stats)
+
 Thank you for visiting my profile! 😄
